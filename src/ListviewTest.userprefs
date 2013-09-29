@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lists02\AnimalListAdapter.cs">
+    <Files>
+      <File FileName="Lists02\AnimalListAdapter.cs" Line="30" Column="31" />
+      <File FileName="Lists02\AnimalListActivity.cs" Line="22" Column="30" />
+      <File FileName="Lists02\BuyActivity.cs" Line="1" Column="1" />
+      <File FileName="Lists02\DetailActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListviewButton MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
