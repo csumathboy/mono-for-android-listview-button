@@ -14,3 +14,5 @@ use button in mono for android with listview
 
 ## **其他说明：**
 我们已经使用mono for android开发了两个应用，作为企业级商业产品，肯定没有问题，大家完全可以放心使用mono for android，“人生短暂，enjoy mono,enjoy C#,enjoy life”
+## **其他说明：**
+好久不更新，本人从今日起，全心投给C#
